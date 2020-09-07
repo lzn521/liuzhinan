@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/lzn521/liuzhinan.git</id>
+    <id>https://lzn</id>
     <title>Gridea</title>
-    <updated>2020-09-07T12:14:47.956Z</updated>
+    <updated>2020-09-07T12:41:33.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/lzn521/liuzhinan.git"/>
-    <link rel="self" href="https://github.com/lzn521/liuzhinan.git/atom.xml"/>
+    <link rel="alternate" href="https://lzn"/>
+    <link rel="self" href="https://lzn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/lzn521/liuzhinan.git/images/avatar.png</logo>
-    <icon>https://github.com/lzn521/liuzhinan.git/favicon.ico</icon>
+    <logo>https://lzn/images/avatar.png</logo>
+    <icon>https://lzn/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/lzn521/liuzhinan.git/post/hello-gridea/</id>
-        <link href="https://github.com/lzn521/liuzhinan.git/post/hello-gridea/">
+        <id>https://lzn/post/hello-gridea/</id>
+        <link href="https://lzn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
